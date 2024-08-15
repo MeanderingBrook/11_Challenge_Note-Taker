@@ -10,7 +10,7 @@ const apiRoutes = require("./routes/apiRoutes");
 
 // Defines Global App Variables
 // const PORT = 3000;
-// Trying to fix Heroku View Error
+// Heroku Deployment Requires process.env PORT Definition
 const PORT = process.env.PORT || 3000;
 
 // Executes Express Function to Create Application Object (app) using Express Framework
