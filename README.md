@@ -115,17 +115,17 @@ https://github.com/MeanderingBrook/11_Challenge_Note-Taker.git
 
 ## GitHub Pages Location
 
-
+https://meanderingbrook.github.io/11_Challenge_Note-Taker
 
 
 ## Application Screenshots
 
-![Note Taker: Nodejs App Server Initialization - Screenshot 01](./assets/images/Note-Taker_Nodejs-App_Screenshot-01_Server-Initialization.png?raw=true "Note Taker: Nodejs App Server Initialization")
+![Note Taker: Nodejs App Server Initialization - Screenshot 01](./public/assets/images/Note-Taker_Nodejs-App_Screenshot-01_Server-Initialization.png?raw=true "Note Taker: Nodejs App Server Initialization")
 
-![Note Taker: Nodejs App Homepage - Screenshot 02](./assets/images/Note-Taker_Nodejs-App_Screenshot-02_Homepage.png?raw=true "Note Taker: Nodejs App Homepage")
+![Note Taker: Nodejs App Homepage - Screenshot 02](./public/assets/images/Note-Taker_Nodejs-App_Screenshot-02_Homepage.png?raw=true "Note Taker: Nodejs App Homepage")
 
-![Note Taker: Nodejs App Notes Page - Screenshot 03](./assets/images/Note-Taker_Nodejs-App_Screenshot-03_Notes-Page.png?raw=true "Note Taker: Nodejs App Notes Page")
+![Note Taker: Nodejs App Notes Page - Screenshot 03](./public/assets/images/Note-Taker_Nodejs-App_Screenshot-03_Notes-Page.png?raw=true "Note Taker: Nodejs App Notes Page")
 
-![Note Taker: Nodejs App Create Note - Screenshot 04](./assets/images/Note-Taker_Nodejs-App_Screenshot-04_Create-Note.png?raw=true "Note Taker: Nodejs App Create Note")
+![Note Taker: Nodejs App Create Note - Screenshot 04](./public/assets/images/Note-Taker_Nodejs-App_Screenshot-04_Create-Note.png?raw=true "Note Taker: Nodejs App Create Note")
 
-![Note Taker: Nodejs App New Note Saved](./assets/images/Note-Taker_Nodejs-App_Screenshot-05_New-Note-Saved.png?raw-true "Note Taker: Nodejs App New Note Saved")
+![Note Taker: Nodejs App New Note Saved](./public/assets/images/Note-Taker_Nodejs-App_Screenshot-05_New-Note-Saved.png?raw-true "Note Taker: Nodejs App New Note Saved")
