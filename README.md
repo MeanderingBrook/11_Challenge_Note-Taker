@@ -113,9 +113,9 @@ Return value and generated content testing and data evaluation, see archive.js (
 https://github.com/MeanderingBrook/11_Challenge_Note-Taker.git
 
 
-## GitHub Pages Location
+## Heroku App Deployment
 
-https://meanderingbrook.github.io/11_Challenge_Note-Taker
+https://note-taker-jsmythe-43e9cb7d5a55.herokuapp.com
 
 
 ## Application Screenshots
