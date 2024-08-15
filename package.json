@@ -1,0 +1,28 @@
+{
+  "name": "11_challenge_note-taker",
+  "version": "1.0.0",
+  "description": "Node.js-based web application to input, and store locally, User notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeanderingBrook/11_Challenge_Note-Taker.git"
+  },
+  "author": "Chris Milazzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeanderingBrook/11_Challenge_Note-Taker/issues"
+  },
+  "homepage": "https://github.com/MeanderingBrook/11_Challenge_Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
