@@ -55,7 +55,9 @@ All Users of the Note Taker on a local computer will have full visibility to all
 
 ## Credits and Code Source
 
-Code, where referenced from a third-party Source, is noted in Comments accompanying the relevant Code lines.
+Database-management Code, within File, db.js, was substantively outlined and contributed to by Course Instructor, who provided recommentation to use Class structure and Class Methods to manage CRUD operations.
+
+Additional Code, where referenced from a third-party Source, is noted in Comments accompanying the relevant Code lines.
 
 
 ## License

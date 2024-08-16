@@ -14,14 +14,14 @@ router.get("/notes", function (req, res) {
 });
 
 // POST Note Router, Saves new Note to App Database
-router.post("/notes", (req, res) => {
+router.post("/notes", function (req, res) {
   db.postNote(req.body)
     .then((note) => res.json(note))
     .catch((err) => res.status(500).json(err));
 });
 
 // DELETE Note Router, Deletes selected Note from App Database (Note ID)
-router.delete("/notes/:id", (req, res) => {
+router.delete("/notes/:id", function (req, res) {
   db.deleteNote(req.params.id)
     .then(() => res.json({ ok: true }))
     .catch((err) => res.status(500).json(err));
